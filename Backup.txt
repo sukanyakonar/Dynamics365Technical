@@ -1,7 +1,6 @@
-git init
-git config --global user.email "sknooralam920786@google.com"
-git remote add origin https://github.com/SK-NOORALAM-RAHAMAN/test.git
-git clone https://github.com/SK-NOORALAM-RAHAMAN/test.git
+
+git clone hhttps://github.com/sukanyakonar/Dynamics365Technical.git
+git config --global user.email "sukanyakonar1347@gmail.com"
 add the new file to this repo
 git add .
 git commit -m "message"
