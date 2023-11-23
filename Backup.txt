@@ -1,5 +1,5 @@
 
-git clone hhttps://github.com/sukanyakonar/Dynamics365Technical.git
+git clone https://github.com/sukanyakonar/Dynamics365Technical.git
 git config --global user.email "sukanyakonar1347@gmail.com"
 add the new file to this repo
 git add .
